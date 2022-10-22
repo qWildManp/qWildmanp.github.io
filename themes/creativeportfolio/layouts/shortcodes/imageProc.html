@@ -1,0 +1,11 @@
+<figure class="w-full">
+    <img src="{{ .Get "src" }}" {{ with .Get "alt"}}alt="{{ . }}"{{ end }} class="rounded-lg">
+  
+    <figcaption>
+    {{ with .Get "title"}}<strong>{{ . }} </strong>{{ end}}
+    {{ with .Get "caption"}}{{ . }}{{ end }}
+    {{ with .Get "attrlink"}}<a href="{{ .}}">{{ end }}
+    {{ with .Get "attr" }}{{ . }}{{ end }}
+    {{ if .Get "attrlink" }}</a>{{ end }}
+    </figcaption>
+</figure>
