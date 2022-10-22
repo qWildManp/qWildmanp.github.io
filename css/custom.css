@@ -1,0 +1,6 @@
+/* your styles go here */
+img[alt=portrait] {
+
+    width: 50%;
+    height: 50%;
+}
