@@ -17,6 +17,8 @@ Finish Date: Jan 2022
 ## Game Overview
 
 In this game, the player will act as Magic Thief – Roger. Running through the magic kingdom, crossing layers of obstacles, escape from the royal knight’s chasing, and defeat bosses.
+
+**Keywords: 2D plateformer**
 ## Endless plateform
 
 
