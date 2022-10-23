@@ -15,7 +15,7 @@ weight = 1
 
 The core gameplay is puzzle solving with element of roguelike , survive.The main theme is realistic horror. Player will act as a poor victim who was thrown into a mistery house, player need to explore the dim room, get rid of killer’s pursue and finally find out the exit of the house and escape.
 
-Keywords: Horror,Puzzle
+**Keywords: Horror,Puzzle Game**
 ## Procedural Generation
 
 #### Map
