@@ -1,1 +1,0 @@
-# qWildmanp.github.io
