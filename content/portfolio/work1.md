@@ -1,6 +1,6 @@
 +++
 date = "2022-10-21"
-title = "Name of the work : Magic Theif"
+title = "Horror Game : Magic Theif"
 draft = false
 image = "img/portfolio/Work1_title.png"
 showonlyimage = false
@@ -14,6 +14,8 @@ weight = 1
 ## Game Overview
 
 The core gameplay is puzzle solving with element of roguelike , survive.The main theme is realistic horror. Player will act as a poor victim who was thrown into a mistery house, player need to explore the dim room, get rid of killer’s pursue and finally find out the exit of the house and escape.
+
+Keywords: Horror,Puzzle
 ## Procedural Generation
 
 #### Map
