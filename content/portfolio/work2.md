@@ -2,7 +2,7 @@
 date = "2022-10-21"
 title = "Name of the work : Deadly Game"
 draft = false
-image = "img/portfolio/Work1_title.png"
+image = "img/portfolio/Work2_title.png"
 showonlyimage = false
 weight = 1
 +++
@@ -95,5 +95,4 @@ This is a puzzle of gravity maze. Players control the rolling of the ball by man
 {{< youtube lB5ub4J4oaU >}}
 
 
-[1]:/img/portfolio/Work1_title.png
-[2]:/img/portfolio/levelGeneratePrototype.png
+[1]:/img/portfolio/Work2_title.png
