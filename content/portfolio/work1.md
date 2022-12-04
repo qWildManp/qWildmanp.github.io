@@ -97,5 +97,4 @@ This is a puzzle of gravity maze. Players control the rolling of the ball by man
 {{< youtube lB5ub4J4oaU >}}
 
 
-[1]:/img/portfolio/Work1_title.png
-[2]:/img/portfolio/levelGeneratePrototype.png
+[1]:/img/portfolio/Work1/Work1_title.png

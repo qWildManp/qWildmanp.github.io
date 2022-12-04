@@ -25,10 +25,15 @@ The look of players' automatic movement is achieved by movement of game map. Giv
 ## Level Design
 #### Level1 - Tutorial Level
 {{< figure
-  src="/img/portfolio/Work2/Level1.png"
+  src="/img/portfolio/Work2/Level1-blueprint.png"
   type="full"
   label="Level 1 - Tutorial Level"
   caption="Level 1 Blueprint" >}}
+  {{< figure
+  src="/img/portfolio/Work2/Level1-layout.png"
+  type="full"
+  label="Level 1 - Tutorial Level"
+  caption="Level 1 Layout" >}}
 
   This Level is designed to be the tutorial level. In this level player will get to know basic control and special ability.Therefore, the level is focusing on easy jump,slide,spell..etc. In each area of level, the teaching-practice method is adopted to help players get familiar with the game.
 
@@ -44,4 +49,4 @@ The look of players' automatic movement is achieved by movement of game map. Giv
 {{< youtube 4Xw11oWWrbE >}}
 
 
-[1]:/img/portfolio/Work2_title.png
+[1]:/img/portfolio/Work2/Work2_title.png
