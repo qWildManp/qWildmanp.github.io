@@ -2,7 +2,7 @@
 date = "2022-10-21"
 title = "Horror Game : Deadly Game"
 draft = false
-image = "img/portfolio/Work1_title.png"
+image = "img/portfolio/Work1/Work1_title.png"
 showonlyimage = false
 weight = 1
 +++
@@ -22,12 +22,12 @@ The core gameplay is puzzle solving with element of roguelike , survive.The main
 #### Map
 
 {{< figure
-  src="/img/portfolio/LevelGeneratePrototype.png"
+  src="/img/portfolio/Work1/LevelGeneratePrototype.png"
   type="full"
   label="LevelGenerate"
   caption="Level Generation-Prototype" >}}
  {{< figure
-  src="/img/portfolio/LevelGenerateFinal.png"
+  src="/img/portfolio/Work1/LevelGenerateFinal.png"
   type="full"
   label="LevelGenerate"
   caption="Level Generation-Final" >}}
@@ -35,7 +35,7 @@ The core gameplay is puzzle solving with element of roguelike , survive.The main
 Procedural generated map. the number of rooms in each sub-level is certain, but the selection and arrangement of room types are randomly distributed. I use scriptable to store the room require- ments of each sub-level. The generation process uses scriptable to traverse each sub-level one by one to ensure that the sub-levels are generated in order. For the problem of room overlap caused by randomness, I use the method of backtracking opera- tion to solve it
 #### Item
  {{< figure
-  src="/img/portfolio/item.png"
+  src="/img/portfolio/Work1/item.png"
   type="full"
   label="item"
   caption="Random Generated Item" >}}
@@ -45,7 +45,7 @@ The random generation of items adopts the method of arranging generation points.
 ## Puzzle Design
 **Statue (Color hint)**
  {{< figure
-  src="/img/portfolio/StatuePuzzle.png"
+  src="/img/portfolio/Work1/StatuePuzzle.png"
   type="full"
   height="85%"
   width="85%"
@@ -56,7 +56,7 @@ This is a room with 6 statues. Players need to push the statue to the correct po
 
 **Statue (Paper hint)**
  {{< figure
-  src="/img/portfolio/StatuePuzzle2.png"
+  src="/img/portfolio/Work1/StatuePuzzle2.png"
   type="full"
   height="85%"
   width="85%"
@@ -67,7 +67,7 @@ There are three animal statues in the exhibition hall. Players need to find clue
 
 **Find Missing Part**
  {{< figure
-  src="/img/portfolio/MissingPart.png"
+  src="/img/portfolio/Work1/MissingPart.png"
   type="full"
   height="85%"
   width="85%"
@@ -78,7 +78,7 @@ This is a locked parlor room. Players need to find the handle of the electric bo
 
 **Gravity Ball**
  {{< figure
-  src="/img/portfolio/GravityPuzzle.png"
+  src="/img/portfolio/Work1/GravityPuzzle.png"
   type="full"
   height="85%"
   width="85%"
@@ -89,7 +89,7 @@ This is a puzzle of gravity maze. Players control the rolling of the ball by man
 
 ## Design WorkFlow
  {{< figure
-  src="/img/portfolio/WorkFlow.png"
+  src="/img/portfolio/Work1/WorkFlow.png"
   type="full"
   label="Workflow Picture"
   caption="" >}}
