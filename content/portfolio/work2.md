@@ -39,12 +39,26 @@ The look of players' automatic movement is achieved by movement of game map. Giv
 
 #### Level2 - Boss Level(Endless Level Boss Fight)
 {{< figure
-  src="/img/portfolio/Work2/bossLevel.png"
+  src="/img/portfolio/Work2/bossLevel-blueprint.png"
   type="full"
   label="Level 2 - Boss Level"
   caption="Level 2 Blueprint" >}}
+{{< figure
+  src="/img/portfolio/Work2/bossLevel-layout.png"
+  type="full"
+  label="Level 2 - Boss Level"
+  caption="Level 2 Layout" >}}
 
   This level is to consolidate abd testing the understanding of existing mechanisms. Therefore, this level is divided into three sub-areas, and each sub-area focuses on challenging one of player's abilities. Area 1(jump),Area 2(fireball)and Area 3(Sliding).And the attack behaviour of boss is designed accordingly to what player has learnt in each subarea to fit the challenge.
+
+#### Boss Design
+**Boss Behavior**
+
+1. Motar shooting
+2. Release Royal Knight(Enemy)
+3. Cannon Fire
+
+When the player in a specific sub-area, it will let the boss in one of the modes.When player switch from one sublevel to another, ther boss will also change its attack mode
 ## Video Demo
 {{< youtube 4Xw11oWWrbE >}}
 
