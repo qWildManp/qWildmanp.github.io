@@ -14,8 +14,10 @@ I am a very team player. Rather than wrestling with a great idea myself, I prefe
 
 * **Carnegie Mellon University -Entertainment Technology Center** 
 M.E.T Entertainment Technology.
+* **Hong Kong Baptist University United International College** 
+B.S Computer Science and Technology.
 * **Beijing Normal University - Hong Kong Baptist University United International College** 
-B.A Computer Science and Technology.
+B.S Computer Science and Technology.
 
 
 [2]: /img/me.JPG
