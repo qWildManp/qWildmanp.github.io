@@ -1,6 +1,6 @@
 +++
 date = "2022-10-21"
-title = "Horror Game : Deadly Game"
+title = "Personal Project: Deadly Game"
 draft = false
 image = "img/portfolio/Work1/Work1_title.png"
 showonlyimage = false
