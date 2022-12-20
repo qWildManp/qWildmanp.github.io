@@ -97,7 +97,7 @@ Designing game levels based on the story are not like just designing sequences o
   caption="Level 3 - Game Scene" 
   >}}
 
-  This is the transition chapter between chapter one and chapter two. Because the main character is unconscious, we create an illusion flashback. In the last flashback, the player will be in the hospital-like scene and witness the death of the main character's wife. The pocket watch is a strong symbol of wife, so when the player interacts with the pocketwatch a connection between the pocket watch and the wife and the main character can be built. The purpose of it is to emphasize the symbolism of the pocket watch, which pave the way for the later stage of the story.
+  This is the transition chapter between chapter one and chapter two. Because the main character is unconscious, we create such an illusion flashback. In the last flashback, the player will be in the hospital-like scene and witness the death of the main character's wife. The pocket watch is a strong symbol of wife, so when the player interacts with the pocketwatch a connection between the pocket watch and the wife and the main character can be built. The purpose of this transition level is to emphasize the symbolism of the pocket watch, which pave the way for the later stage of the story.
   
   Just like in the Prologue, the idea of contrast is also used in this level----- all the unnecessary things are in white, and only important things will have color. Besides, a bright spotlight is pointing at the bed to attract player's attention.
 #### Level 4 - In the cosmos
@@ -115,7 +115,7 @@ Designing game levels based on the story are not like just designing sequences o
   >}}
 
    This is the chapter two level. In this level, the main character recovered from unconscious and found out that the spaceship is severely damaged and his dog and his pocket watch flew away from him. When the main character found two items in space, there became a warning that fuel is critical. Now, the player had to choose to save only one of them and return to earth or intended to save all but would not be able to return home.
-   
+
 {{< figure
   src="/img/portfolio/Work3/Level4_pic2.png"
   type="full"
