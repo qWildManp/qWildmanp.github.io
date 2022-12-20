@@ -53,7 +53,21 @@ The look of players' automatic movement is achieved by movement of game map. Giv
 
 #### Boss Design
 **Boss Behavior**
-
+{{< figure
+  src="/img/portfolio/Work2/bossBehavior_code1.png"
+  type="full"
+  label="Boss Design"
+  caption="Boss Attack Behavior" >}}
+  {{< figure
+  src="/img/portfolio/Work2/bossBehavior_code2.png"
+  type="full"
+  label="Boss Design"
+  caption="Boss Attack Modes" >}}
+  {{< figure
+  src="/img/portfolio/Work2/bossBehavior_animationTree.png"
+  type="full"
+  label="Boss Design"
+  caption="Boss Animation Tree" >}}
 1. Motar shooting
 2. Release Royal Knight(Enemy)
 3. Cannon Fire
