@@ -7,9 +7,11 @@ showonlyimage = false
 weight = 2
 +++
 **Introduction**: It is a magic world displayed on Vonxon VX1. It is a CO-OP puzzle game. Each player will play as a squirrel. They will stay together, help each other and solve puzzles together.
+
 Team members:
 Langxuan (Harry) He, Sheryl Long, Liyi Tang, Zixuan (Abigail) Zhu,Yancan Wang
-I am a programmer and level designer for this round
+
+I am a programmer and a level designer for this round
 
 <!--more-->
 ![gamelogo][1]
