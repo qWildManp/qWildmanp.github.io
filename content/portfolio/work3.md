@@ -130,12 +130,27 @@ Designing game levels based on the story are not like just designing sequences o
   >}}
 
   Because this part is the climax stage of the whole plot, my team members and I used some detailed designs on the details after discussion to ensure the transmission of information and emotions. The first is the processing on two key items. In order to allow players to see two objects in a relatively dark cosmic environment, they are highlighted. And regarding the problem that the pocket watch is too small for the dog and the center of gravity is unbalanced, my team members and I discussed and made a design that when the player gets close to a certain distance, the phantom of his wife will appear on the pocket watch and music box music will be played.
-  
+
   At the moment of the player's final decision, I tend to make the player experience a sense of bitterness and powerlessness. Two objects were placed on the left and right sides at the same distance from the ship, and an alarm sounded to warn the player that the fuel was low. Combined with the design of establishing the player's emotional connection through the recurring dogs and pocket watches in the previous plot, the final scene will pull the emotional intensity to the peak. It is worth mentioning that although the game does have a hidden ending in which both are saved but cannot go home, I think it is necessary to strengthen a relatively positive ending.
 
 #### Level 5 - Ending(Multi-Ending)
 
 ## Level implementation - Event System
+
+  {{< figure
+  src="/img/portfolio/Work3/eventSystem_pic1.png"
+  type="full"
+  label="Event System"
+  caption="Event System - main function" 
+  >}}
+    {{< figure
+  src="/img/portfolio/Work3/eventSystem_pic2.png"
+  type="full"
+  label="Event System"
+  caption="Event System -  event sample" 
+  >}}
+
+ Because our game is a story-heavy experience, a event manager is needed for each level.Here are some screenshots about event system
 ## Video Demo
 {{< youtube s4tadKQbHLo>}}
 
