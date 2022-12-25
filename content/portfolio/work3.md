@@ -60,6 +60,8 @@ Designing game levels based on the story are not like just designing sequences o
    Flashback two and three will be triggered by key items(as the layout shows). And we use the dog to help with each interaction, because the dog is a relatively active character at this level, and the dog also is important to the main characters. So, the dog will help the player to fetch key items, and the dog will bark when it finished fetching and came close to the player. I think this design will build a strong connection between the player and the dog and then gradually make the player feel the connection between the main character and the dog.
 
    Also, slight changes are made for each flashback to give the player a strong sense of **past** and **present**. Like different dates on the calendar, progressive building stage of the spaceship when flashback goes on, different placement of game scene items...
+
+   I mainly responsible for desiging level 1 and level 3
 #### Level 2- To the wormhole
 {{< figure
   src="/img/portfolio/Work3/Level2_pic1.png"
