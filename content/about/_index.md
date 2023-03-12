@@ -4,7 +4,7 @@ title = "About me"
 +++
 
 #### Hi! I am Langxuan He, you can call me **Harry**.
-I’m an independent Game Developer and also a Game Designer. Currently, I'm at Carnegie Mellon University -Entertainment Technology Center to pursue further studies. My future career dream is to become a successful Level Designer and become both artistic and technical. This website is my portfolio website, which shows some interesting work during my path in Game Design. Please feel free to take a look and welcome to my creative space!
+I’m an independent Game Developer and also a Game Designer. Currently, I'm at Carnegie Mellon University -Entertainment Technology Center to pursue further studies. My future career dream is to become a successful Level Designer and become both artistic and technical. This website is my portfolio website, which shows some interesting work during my path in Game Deisgn/Level Design and also some of my work in technical animation. Please feel free to take a look and welcome to my creative space!
 
 ![portrait][2]
 
