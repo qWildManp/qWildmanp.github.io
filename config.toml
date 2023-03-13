@@ -1,4 +1,4 @@
-baseurl = "https://qwildmanp.github.io"
+baseurl = "https://qwildmanp.github.io/portfolio"
 title = "Harry's Creative Space"
 theme = "creativeportfolio"
 languageCode = "en-us"
@@ -14,8 +14,7 @@ googleAnalytics = ""
   description = "Langxuan He's Portfolio Website"
   copyright = "&copy;2022 Langxuan He(Harry)"
   sidebarAbout = [
-    "Hi! I am Langxuan He!And you can call me Harry.I'm a creative Game Designer and Game Developer.",
-    "Originally from Zhuhai,China, currently based in Pittsburgh."
+    "Hi! I am Langxuan He!And you can call me Harry.I'm currently a CMUETC student. I have a background of ComputerScience.I 'm interested in level-design and procedural animation. I prefer using algorithm to help me solve some problem in level-design"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -41,13 +40,18 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
-  home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "I'm a Level Designer"
+  url = "design/"
+  home = true
+ 
+  [[params.navlinks]]
+  name = "I'm a Technical Artist"
+  url = "technical/"
+
+  [[params.navlinks]]
+  name = "About me"
   url = "about/"
 
   [[params.navlinks]]
