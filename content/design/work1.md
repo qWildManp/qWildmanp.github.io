@@ -19,22 +19,23 @@ It is an 2 month personal Project
 The core gameplay is puzzle solving with element of roguelike , survive.The main theme is realistic horror. Player will act as a poor victim who was thrown into a mistery house, player need to explore the dim room, get rid of killer’s pursue and finally find out the exit of the house and escape.
 
 **Keywords: Horror,Puzzle Game**
-## Procedural Generation
+## Overview of Levels
 
-#### Map
+#### Level Flow
 
 {{< figure
   src="/img/portfolio/Work1/LevelGeneratePrototype.png"
   type="full"
   label="LevelGenerate"
   caption="Level Generation-Prototype" >}}
- {{< figure
-  src="/img/portfolio/Work1/LevelGenerateFinal.png"
-  type="full"
-  label="LevelGenerate"
-  caption="Level Generation-Final" >}}
 
-Procedural generated map. the number of rooms in each sub-level is certain, but the selection and arrangement of room types are randomly distributed. I use scriptable to store the room require- ments of each sub-level. The generation process uses scriptable to traverse each sub-level one by one to ensure that the sub-levels are generated in order. For the problem of room overlap caused by randomness, I use the method of backtracking opera- tion to solve it
+
+**First Level - intro level** : Player Start Room , one exploring room and one danger room.
+
+**Second Level - danger level** : two exploring rooms and three danger rooms
+
+**Third Level - puzzle level** :  two puzzle rooms, two exploring rooms and two danger rooms
+
 #### Item
  {{< figure
   src="/img/portfolio/Work1/item.png"
