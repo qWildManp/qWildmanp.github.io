@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Langxuan He's Portfolio Website"
   copyright = "&copy;2022 Langxuan He(Harry)"
   sidebarAbout = [
-    "Hi! I am Langxuan He!And you can call me Harry.I'm currently a CMUETC student. I have a background of ComputerScience.I 'm interested in level-design and procedural animation. I prefer using algorithm to help me solve some problem in level-design"
+    "Hi! I am Langxuan He! And you can call me Harry.I'm currently a CMUETC student. I have a background of ComputerScience.I 'm interested in level-design and procedural animation. I prefer using algorithm to help me solve some problem in level-design"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
