@@ -47,7 +47,7 @@ googleAnalytics = ""
   home = true
  
   [[params.navlinks]]
-  name = "Technical Art"
+  name = "Technical"
   url = "technical/"
 
   [[params.navlinks]]
