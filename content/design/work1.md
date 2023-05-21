@@ -14,6 +14,8 @@ weight = 1
 Finish Date: Nov 2021
 
 It is an 2 month personal Project
+## Video Demo
+{{< youtube lB5ub4J4oaU >}}
 ## Game Overview
 
 The core gameplay is puzzle solving with element of roguelike , survive.The main theme is realistic horror. Player will act as a poor victim who was thrown into a mistery house, player need to explore the dim room, get rid of killer’s pursue and finally find out the exit of the house and escape.
@@ -96,8 +98,7 @@ This is a puzzle of gravity maze. Players control the rolling of the ball by man
   type="full"
   label="Workflow Picture"
   caption="" >}}
-## Video Demo
-{{< youtube lB5ub4J4oaU >}}
+
 
 
 [1]:/img/portfolio/Work1/Work1_title.png

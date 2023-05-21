@@ -14,11 +14,14 @@ weight = 2
 ![gamelogo][1]
 
 Finish Date: Jan 2022
+## Video Demo
+{{< youtube 4Xw11oWWrbE >}}
 ## Game Overview
 
 In this game, the player will act as Magic Thief – Roger. Running through the magic kingdom, crossing layers of obstacles, escape from the royal knight’s chasing, and defeat bosses.
 
 **Keywords: 2D plateformer**
+
 ## Gameplay Mechanics - Autorun
 The look of players' automatic movement is achieved by movement of game map. Give the player initial speed and acceleration, and spped thredshold.While the player's speed is increasing, the game map will calculate tge relative movement speed and start moving.
 
@@ -73,8 +76,7 @@ The look of players' automatic movement is achieved by movement of game map. Giv
 3. Cannon Fire
 
 When the player in a specific sub-area, it will let the boss in one of the modes.When player switch from one sublevel to another, ther boss will also change its attack mode
-## Video Demo
-{{< youtube 4Xw11oWWrbE >}}
+
 
 
 [1]:/img/portfolio/Work2/Work2_title.png

@@ -17,6 +17,8 @@ I am a programmer and a level designer for this round
 ![gamelogo][1]
 
 Finish Date: Nov 2022
+## Video Demo
+{{< youtube s4tadKQbHLo>}}
 ## Game Overview
 A VR Storytelling Experience. There was an old man named Eustice who used to be a NASA engineer. When he retired, his wife Katherine, his dog Planck, and himself moved to Kansas to get away from the hustle of the big city. Katherine and Eustice were working on a homemade spaceship together, when Katherine fell ill and died, leaving behind the gift of a Pocket watch with a picture of her…
 
@@ -153,8 +155,7 @@ Designing game levels based on the story are not like just designing sequences o
   >}}
 
  Because our game is a story-heavy experience, a event manager is needed for each level.Here are some screenshots about event system
-## Video Demo
-{{< youtube s4tadKQbHLo>}}
+
 
 
 [1]:/img/portfolio/Work3/Singularity_Intro.png

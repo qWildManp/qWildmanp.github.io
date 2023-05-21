@@ -16,15 +16,14 @@ I am a programmer and a level designer for this round
 <!--more-->
 ![gamelogo][1]
 Finish Date: Dec 2022
+## Video Demo
+{{< youtube UpR2fYRav8c>}}
 ## Game Overview
 It is a CO-OP puzzle game. Two players need to stay together and find a way to overcome the dificulties and solve puzzles
 
 **Keywords: Puzzle,CO-OP**
 
 ## Level Design
-#### Level1 - Tutorial Level
-
-#### Level2 - Desert Level
 
 #### Level3 - Dungeon Level
 {{< figure
@@ -55,8 +54,7 @@ I mainly responsible for designing this level .In this level , two players are d
 6. Reach the Exit 
 #### Level4 - Boss Level
 
-## Video Demo
-{{< youtube UpR2fYRav8c>}}
+
 
 
 [1]:/img/portfolio/Work4/MagicBox_logo.png
