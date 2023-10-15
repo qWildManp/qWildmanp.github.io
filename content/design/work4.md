@@ -1,6 +1,6 @@
 +++
 date = "2022-12-10"
-title = "BVW World: Magic Box"
+title = "Unity + Voxon Volumatric Display: Magic Box"
 draft = false
 image = "img/portfolio/Work4/MagicBox_logo.png"
 showonlyimage = false
@@ -52,7 +52,6 @@ I mainly responsible for designing this level .In this level , two players are d
 5. Player Red 🔴 and Player Yellow 🟡 get close to the wall and gnerate the shield to go through the nail-shooting area and press the button to lift up the nail-shooting wall
    
 6. Reach the Exit 
-#### Level4 - Boss Level
 
 
 

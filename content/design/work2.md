@@ -1,6 +1,6 @@
 +++
 date = "2022-10-22"
-title = "Personal Project: Magic Thief"
+title = "Unity 2D Platformer: Magic Thief"
 draft = false
 image = "img/portfolio/Work2/Work2_title.png"
 showonlyimage = false

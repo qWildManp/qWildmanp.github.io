@@ -1,6 +1,6 @@
 +++
 date = "2022-11-20"
-title = "BVW World: Singularity"
+title = "Unity VR Project: Singularity"
 draft = false
 image = "img/portfolio/Work3/Singularity_logo.png"
 showonlyimage = false
