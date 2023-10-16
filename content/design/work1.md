@@ -4,7 +4,7 @@ title = "Unity 3D Horror Game: Deadly Game"
 draft = false
 image = "img/portfolio/Work1/Work1_title.png"
 showonlyimage = false
-weight = 2
+weight = 3
 +++
 
 **Introduction**: PC, First person single player horror game, playing as a white-collar worker who was caught by killer at 6:06 am one day. Without any special skills and strength, player need depend on himself to solve puzzles in each level of the house and escape from killer.
