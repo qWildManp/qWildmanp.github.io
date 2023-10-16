@@ -4,7 +4,7 @@ title = "Unity 2D Platformer: Magic Thief"
 draft = false
 image = "img/portfolio/Work2/Work2_title.png"
 showonlyimage = false
-weight = 2
+weight = 3
 +++
 
 **Introduction**: Once upon a time, there is a kingdom called Zauberlehr. It has a great knowledge of magic and Spells, but it has a strict hierarchy. Only nobles can have the access to magic, common people are forbidden to use or even learn magic. However, there is a good thief called Roger, who is smart and full of a sense of justice...
