@@ -15,7 +15,7 @@ weight = 1
 ![gamelogo][1]
 Finish Date: Nov 2023
 ## Video Demo
-{{< youtube >}}
+{{< youtube XF5XtHUYSlU>}}
 
 ## Playable Demo
 
@@ -32,19 +32,19 @@ Similar to Dishonred 1 ,player was a prisoner who was locked in royal secret pri
   caption="Level Map - Layout" 
   >}}
 
-This is the top-down overview of the level.The expected time of the whole experience would be 10 minutes .Player will experience 3 sublevel areas: “Special Prison”,”Central Prison” and “Prison Exit”. Players will start from “Special Prison” and finish the level at “Prison Entrance”. Each sublevel experience time would be around 3 minutes. In this level, player will learn the interaction of **“Climb” ,”Jump”,”Interaction with button”,”Use of pole”,”Hide in Cover” and ”Danger of Security Camera”**. 
+This is the top-down overview of the level.The expected time of the whole level experience would be 10 minutes ,each approach will be around 5 minutes.Player will experience 3 sublevel areas: “Special Prison”,”Central Prison” and “Prison Exit”. Players will start from “Special Prison” and finish the level at “Prison Entrance”. Each sublevel experience time would be 2 - 3 minutes. In this level, player will learn the interaction of **“Climb” ,”Jump”,”Interaction with button”,”Use of pole”,”Hide in Cover” and ”Danger of Security Camera”**. 
 
 ## Legend 
 {{< figure
   src="/img/portfolio/Work5/legend_1.jpg"
-  width="50%"
+  width="30%"
   type="full"
   label="Level Overview"
   >}}
   
 {{< figure
   src="/img/portfolio/Work5/legend_2.jpg"
-  width="50%"
+  width="30%"
   type="full"
   label="Level Overview"
   caption="Level Map - Lengend" 
