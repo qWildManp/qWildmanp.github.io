@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "sea"
+  style = "red"
   description = "Langxuan He's Portfolio Website"
   copyright = "&copy;2022 Langxuan He(Harry)"
   sidebarAbout = [
