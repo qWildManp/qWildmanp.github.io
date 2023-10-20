@@ -146,8 +146,9 @@ Because the level is devided in 3 sections, I build the level by sections. First
 {{< /gallery >}}
 
 Secondly, when space is decieded, interative objects and major guidance will be added into the level
+
 {{< gallery  hover-effect="grow" 
-  dir="/img/portfolio/Work5/Detailed GreyBox" >}}
+  dir="/img/portfolio/Work5/Detailed GreyBox" />}}
 
 #### Redesign of Sublevel 2
 
