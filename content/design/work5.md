@@ -44,12 +44,17 @@ The expected time of the whole level experience would be 10 minutes ,each approa
 ## Level Design - Pre-production
 
 #### Learning the Limits
-I use [LevelUP Level Design Toolkit](https://projects.etc.cmu.edu/level-up/ "Level UP Tookkit") as my Level Editing toolkit，so I first dig into how far that this toolkit can do to learn about the limitations in my level design.
+I use [Level UP Level Design Toolkit](https://projects.etc.cmu.edu/level-up/ "Level UP Tookkit") as my Level Editing toolkit，so I first dig into how far that this toolkit can do to learn about the limitations in my level design. I played its playground scene where they show up all the features that this package is capable of. After test runing, without writing any script I notice following limitations of this toolkit :
+1. No Enemy AI
+2. Button switch with limited usage -- Only can triger Door
+3. Objects cannot block the view of Camera
+
 
 
 #### Metrics Mesurements
 
-Size of the space is cutial in level design.Before I start to draw somthing on paper. I first take a measurement of Unreal Unit Cube which can be helpful for me to manage level size. I simply opened a sample third person scene and tried randomly build a room to mesure the character size ,and I test the relative feeling of object size with different scales cubes. After the measurement, I go bakc to my grid paper and set 1 grid stands for 3 Unreal Unit length
+Size of the space is cutial in level design.Before I start to draw somthing on paper. I first take a measurement of Unreal Unit Cube which can be helpful for me to manage level size. I simply opened a sample third person scene and tried randomly build a room to mesure the character size ,and I test the relative feeling of object size with different scales cubes. After the measurement, I go bakc to my grid paper and set 1 grid stands for 3 Unreal Unit length.
+{{< gallery >}}
 {{< figure
   src="/img/portfolio/Work5/Metrics.png"
   width="40%"
@@ -62,7 +67,13 @@ Size of the space is cutial in level design.Before I start to draw somthing on p
   label="matrics"
   caption="Build room and objects using cubes with unit grid material" 
   >}}
-
+  {{< figure
+  src="/img/portfolio/Work5/Metrics3.png"
+  width="40%"
+  label="matrics"
+  caption="Paper Design based on metrics" 
+  >}}
+{{< /gallery >}}
 
 #### Paper Designs
 
@@ -76,13 +87,13 @@ I planed my brain-storming of the level by playing the "Dishonored" Level - Esca
   caption="Level Map - Layout" 
   >}}
 
-  This is the rough arrangment of the level. Getting inspired by the prison escape in the "Dishonored" Level, I divided my level into three sections. Each section have different emphasis and have two solutions that to pass level.
+  This is the rough arrangment of the level. Getting inspired by the prison escape in the "Dishonored" Level, I divided my level into three sections. Each section have different emphasis and have two solutions that to pass the section. Considering on the limitation of the toolkit,which is no enemy will walk around the level , so I shift the sneaking experience from encounter-battling to more like puzzle-solving.
 
 
 {{< table "table table-striped table-hover" >}}
 |**Level Section**| 1.Specal Prison  | 2.Central Prison | 3.Prison Entrance
 |---------|---------|--------|--------|
-|**Expected Experience**\ **Difficulty**|Intimate Space,Guided,Teaching \ Tutorial Level     |Prospect Space,High Intensity dodging / jumpiing\  Chanllenging Level   | Prospect Space,Moderate Intensity dodging / jumpiing,Puzzle Solving \ Challenging Level
+|**Expected Experience**\ **Difficulty**|Intimate Space,Guided,Teaching \ Tutorial Level     |Prospect Space,High Intensity dodging / jumpiing\  Chanllenging Level   | Prospect Space,Moderate Intensity dodging / jumping,Puzzle Solving \ Challenging Level
 |**Major Obstacles** | Path A: Door Puzzle, Pole Puzzle      | Path A: Moving Cameras(Danger Zone)   | Path A: Moving Pattern of two cameras
 |                    | Path B: Static Platforms | Path B: Moving Platforms          | Path B: Moving Pattern of one camera, Pole Puzzle
 {{</ table >}}
@@ -114,6 +125,29 @@ Detailed paper design of each level section(room)
 ## Level Design - In-production
 
 #### Greyboxing
+
+Because the level is devided in 3 sections, I build the level by sections. Firstly, I only built walls and vertical space of each section based on papaer design, and playtest myself in the space.Then I will make some tweaks of space size if the space is too large or narrow.
+{{< gallery >}}
+{{< figure
+  src="/img/portfolio/Work5/Sublevel1_greybox.jpg"
+  caption="Sublevel1 - greybox" 
+  label="Level Overview"
+>}}
+{{< figure
+  src="/img/portfolio/Work5/Sublevel2_greybox.jpg"
+  caption="Sublevel2 - greybox" 
+  label="Level Overview"
+>}}
+{{< figure
+  src="/img/portfolio/Work5/Sublevel3_greybox.jpg"
+  caption="Sublevel3 - greybox" 
+  label="Level Overview"
+>}}
+{{< /gallery >}}
+
+Secondly, when space is decieded, interative objects and major guidance will be added into the level
+{{< gallery  hover-effect="grow" 
+  dir="/img/portfolio/Work5/Detailed GreyBox" >}}
 
 #### Redesign of Sublevel 2
 
