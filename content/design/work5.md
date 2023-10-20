@@ -90,7 +90,7 @@ I planed my brain-storming of the level by playing the "Dishonored" Level - Esca
   This is the rough arrangment of the level. Getting inspired by the prison escape in the "Dishonored" Level, I divided my level into three sections. Each section have different emphasis and have two solutions that to pass the section. Considering on the limitation of the toolkit,which is no enemy will walk around the level , so I shift the sneaking experience from encounter-battling to more like puzzle-solving.
 
 
-{{< table "table table-striped table-hover" >}}
+{{< table "table table-striped table-hover w-auto" >}}
 |**Level Section**| 1.Specal Prison  | 2.Central Prison | 3.Prison Entrance
 |---------|---------|--------|--------|
 |**Expected Experience**\ **Difficulty**|Intimate Space,Guided,Teaching \ Tutorial Level     |Prospect Space,High Intensity dodging / jumpiing\  Chanllenging Level   | Prospect Space,Moderate Intensity dodging / jumping,Puzzle Solving \ Challenging Level
