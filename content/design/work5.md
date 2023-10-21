@@ -17,7 +17,7 @@ weight = 1
 {{< figure
   src="img/portfolio/Work5/title_img.png"
   type="full"
-  width="50%"
+  width="70%"
   label="Level Overview"
   caption="Level Map - Layout" 
 >}}
@@ -82,7 +82,7 @@ I planed my brain-storming of the level by playing the "Dishonored" Level - Esca
 {{< figure
   src="/img/portfolio/Work5/level_overview.jpg"
   type="full"
-  width="40%"
+  width="50%"
   label="Level Overview"
   caption="Level Map - Layout" 
   >}}
@@ -94,8 +94,8 @@ I planed my brain-storming of the level by playing the "Dishonored" Level - Esca
 |**Level Section**| 1.Specal Prison  | 2.Central Prison | 3.Prison Entrance
 |---------|---------|--------|--------|
 |**Expected Experience**\ **Difficulty**|Intimate Space,Guided,Teaching \ Tutorial Level     |Prospect Space,High Intensity dodging / jumpiing\  Chanllenging Level   | Prospect Space,Moderate Intensity dodging / jumping,Puzzle Solving \ Challenging Level
-|**Major Obstacles** | Path A: Door Puzzle, Pole Puzzle      | Path A: Moving Cameras(Danger Zone)   | Path A: Moving Pattern of two cameras
-|                    | Path B: Static Platforms | Path B: Moving Platforms          | Path B: Moving Pattern of one camera, Pole Puzzle
+|**Major Obstacles** | Path A: Door Puzzle, Pole Puzzle      | Path A: Rotating Cameras (Danger Zone)   | Path A: Moving Pattern of two cameras
+|                    | Path B: Static Platforms | Path B: Moving Cameras          | Path B: Moving Pattern of one camera, Pole Puzzle
 {{</ table >}}
 
 Key Experience and Obstacles in sublevels
@@ -126,7 +126,7 @@ Detailed paper design of each level section(room)
 
 #### Greyboxing
 
-Because the level is devided in 3 sections, I build the level by sections. Firstly, I only built walls and vertical space of each section based on papaer design, and playtest myself in the space.Then I will make some tweaks of space size if the space is too large or narrow.
+Because the level is devided in 3 sections, I build the level by sections. Firstly, I only built walls and vertical space of each section based on papaer design, and playtest myself in the space.Then I will make some tweaks of space size if the space is too large or narrow. Then jumping platforms ,doors ,secret holes will be added in to test if they are accessable/jumpable.
 {{< gallery >}}
 {{< figure
   src="/img/portfolio/Work5/Sublevel1_greybox.jpg"
@@ -145,14 +145,85 @@ Because the level is devided in 3 sections, I build the level by sections. First
 >}}
 {{< /gallery >}}
 
-Secondly, when space is decieded, interative objects and major guidance will be added into the level
-
-{{< gallery  hover-effect="grow" 
-  dir="/img/portfolio/Work5/Detailed GreyBox" />}}
 
 #### Redesign of Sublevel 2
 
-#### Playtesting and Iterations
+During the greyboxing process, I found the my original design of sublevel 2 is hard to implemented. Because "Dodging the camera using cover" is the key experience in this section, but "X-Ray Camera" will break the experience. This let me to reconsider the design of Sublevel 2. When rethinking of my design of Sublevel 2, In found following designed problems with my current design:
+
+**1. The two level paths are not clear enough**
+  
+ {{< figure
+  src="/img/portfolio/Work5/Issue_in_sublevel2.jpg"
+  width="60%"
+  label="Level Issue"
+  caption="Two ways to finish the level are so close" 
+>}}
+
+Here is the comparison between two paths to finish this section. It is obvious that two paths are actually going along with only one path, the only difference is press the side button or not. I think this wil make player feel confused about different choices in level, or player may not notice there is two ways to pass this section.
+
+**2. The experience of two approachs are too similar**
+  
+Another issue I noticed in my design in sublevel 2 is two paths hves similar playing experience. In design, the core experience is diffrerent for each path. One will more focus on player cautious playing style and environment observation, the other will be more focus on risky playing style and instant decision making (Detailed can bereferenced from documentation below).
+
+Based on above issue, I redesigned the second section as following :
+{{< figure
+  src="/img/portfolio/Work5/Redesign_of_sublevel2.jpg"
+  width="60%"
+  label="Level Overview"
+  caption="Redesign of sublevel 2 - redesign the level path" 
+>}}
+
+ In the new design, first thing I do is to sepreate two path to make each path unique to the player. I think this change can make the choice of path more clear to the player. Now one approach(On the left) to finish is at the first floor of the room ,and for the other approach(On the right), all experience will happen at second floor. Next, I redesign the experience of two paths. I keep the core playing experience of each path as baseline of this level section, and make my two paths more fit the experience. For the first path(on the left), in stead of "using cover to avoid camera's view", I change it to "Player need to observe the movng patterns of those security cameras", I add some safe zones(refer to the green areas in above figure) for player to stand/temperarily stand and think of the next step. For the second path(on the right), I change it from "camera dodging game" to "platformers", now the player won't experience any deadly cameras(they are at 1F), but the player need to make use of the cameras holders to jump through this section. These holders are always moving / rotating, which requires player to play more risky and make fast decisions in this path.
+
+#### Iterations and Playtesting
+
+ After the grey-boxing and finalize the design, I started to add more detailed in my scene, which are all interative objects and some main guidance to lead player. After that, I finished other building parts to enrich the environment narritive, and here comes to the first version of my level.
+  
+{{< figure
+  src="/img/portfolio/Work5/level_v1.jpg"
+  width="60%"
+  label="Level Overview"
+  caption="Blockmesh - version 1" 
+
+>}}
+
+ {{< gallery  hover-effect="grow" 
+  dir="/img/portfolio/Work5/Detailed GreyBox" />}}
+
+  After finishing the first version I got it playtested with someof my schoolmates and friends. They provides me some valuable insights that helps me to tweak my level better. Here are some examples during the playtest-iteration process :
+
+**1. Exit of sublevel misguide player**
+   
+  Issue noticed :
+
+  Some playtester are misguided in this section because of the direction of the door. Above figure shows that player should go left to exit this section, but the door direction blocks the view from the 
+  left and suggest a wrong way ------ go to the exit of the other path and get lost.
+  {{< figure
+  src="/img/portfolio/Work5/Iterate_1.jpg"
+  label="Level Interate"
+  caption="" 
+  >}}
+
+  Change:
+
+  Change the direction of the door, Add another locked door at the exit of the other path.
+
+  {{< figure
+  src="/img/portfolio/Work5/Iterate_1_change_0.jpg"
+  label="Level Interate"
+  caption="" 
+  >}}
+
+  {{< figure
+  src="/img/portfolio/Work5/Iterate_1_change_1.jpg"
+  width= "30%"
+  label="Level Interate"
+  caption="" 
+  >}}
+
+ 
+
+
 
 ## Screen Shots
 
@@ -162,6 +233,7 @@ Secondly, when space is decieded, interative objects and major guidance will be 
   caption="Level Flow - Finalized blockmesh" 
 >}}
 
-
+## Documentation
+{{< gdocs src="https://docs.google.com/viewer?srcid=1OcROdeQtPJjOXnz7Ugb2YgmKKAR64E3I&pid=explorer&efh=false&a=v&chrome=false&embedded=true" >}}
 
 [1]:/img/portfolio/Work5/title_img.png
