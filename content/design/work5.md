@@ -1,6 +1,6 @@
 +++
 date = "2023-09-30"
-title = "Level Design: Redesign of Dishonored Level"
+title = "Level Design: Saved by the Bell"
 draft = false
 image = "img/portfolio/Work5/title_img.png"
 showonlyimage = false
