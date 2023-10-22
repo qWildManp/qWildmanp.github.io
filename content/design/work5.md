@@ -76,7 +76,7 @@ Size of the space is cutial in level design.Before I start to draw somthing on p
   >}}
 {{< /gallery >}}
 
-#### Paper Designs
+#### Paper Design
 
 I planed my brain-storming of the level by playing the "Dishonored" Level - Escape from prison phase many times . I tried to extract the fun aspects and level pacing during that period. I noticed that the most interesting part when I was playing the level was player can have more than one path to reach the goal.In the prison escape phase, it had three main moments (excape from the cell and avoid guards --> stole the bomb in a room --> Go the exit ,plant the bomb and break out the exit door) and it offers at least 2 times during the whole prison escape experience. 
 
