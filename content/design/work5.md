@@ -19,7 +19,8 @@ weight = 1
   type="full"
   width="70%"
   label="Level Overview"
-  caption="Level Map - Layout" 
+  caption="" 
+
 >}}
 
 #### Finish Date: Nov 2023
@@ -198,40 +199,92 @@ Based on above issue, I redesigned the second section as following :
 
   Some playtester are misguided in this section because of the direction of the door. Above figure shows that player should go left to exit this section, but the door direction blocks the view from the 
   left and suggest a wrong way ------ go to the exit of the other path and get lost.
+
+  Change:
+
+  1. Change the direction of the door to guide the player in a correct direction 
+  2. Add another locked door at the exit of the other path to seperate two paths.
+
   {{< figure
   src="/img/portfolio/Work5/Iterate_1.jpg"
   label="Level Interate"
   caption="" 
   >}}
 
-  Change:
+**2. Confusing at level section 2**
 
-  Change the direction of the door, Add another locked door at the exit of the other path.
+Issue noticed : 
 
-  {{< figure
-  src="/img/portfolio/Work5/Iterate_1_change_0.jpg"
-  label="Level Interate"
-  caption="" 
-  >}}
+ 1. Some playtesters cannot notice there is another path and cannot distinguish the difficulties between two paths
+ 2. Some pipes outside of section 2 guide playtester out of playing area.
+ 3. Some playtesters feel confused about where to go when entered the level.
 
-  {{< figure
-  src="/img/portfolio/Work5/Iterate_1_change_1.jpg"
-  width= "30%"
-  label="Level Interate"
-  caption="" 
-  >}}
-
- 
-
-
-
-## Screen Shots
+Change:
+ 1. At outside of section 2, add more visualize guidance (leading lines, contrast) and remove some unnessary pipes.
 
 {{< figure
-  src="/img/portfolio/Work5/GameFlow.jpg"
-  label="Level Overview"
-  caption="Level Flow - Finalized blockmesh" 
->}}
+  src="/img/portfolio/Work5/Iterate_2_1.jpg"
+  label="Level Interate"
+  caption="" 
+  >}}
+
+ 2. Move the checkpoint area (the entrance) of the section outside of room so that player will be able to see the entrance of each path earlier
+
+{{< figure
+  src="/img/portfolio/Work5/Iterate_2_2.jpg"
+  label="Level Interate"
+  caption="" 
+  >}}
+
+ 3. Inside of section 2, break some walls to create a converging point to attract players attention
+
+{{< figure
+  src="/img/portfolio/Work5/Iterate_2_3.jpg"
+  label="Level Interate"
+  caption="" 
+  >}}
+
+**3. Hard for player to know the struacture of the level**
+
+Issue noticed :
+
+A playtester said my level is hard to get familiar with the whole level structure, just feel like following a sequence of room and reach the end.
+
+Change:
+
+It's a bit chanllenge issue for me, but I still tried some efforts to help player to know my level strcuture.
+
+1. Make the exit of level be the landmark in the level and create some view points where player can find the landmark in different view. 
+ 
+{{< figure
+  src="/img/portfolio/Work5/Iterate_3_1.jpg"
+  label="Level Interate"
+  caption="" 
+  >}}
+
+2. Create some peek points for players to notice another possible path to make structural connections between different paths. 
+{{< figure
+  src="/img/portfolio/Work5/Iterate_3_2.jpg"
+  label="Level Interate"
+  caption="" 
+  >}}
+
+3. Using some building structures to reveal some hiden spaces to encourage player to explore the level.
+{{< figure
+  src="/img/portfolio/Work5/Iterate_3_3.jpg"
+  label="Level Interate"
+  caption="" 
+  >}}
+
+4. Rveal some information about incoming challenge to movtive player.
+{{< figure
+  src="/img/portfolio/Work5/Iterate_3_4.jpg"
+  label="Level Interate"
+  caption="" 
+  >}}
+
+## Screen Shots
+{{< gallery-slider dir="/img/portfolio/Work5/ScreeShots/"  width="1000px" height="500px" auto-slide="2000" >}}
 
 ## Documentation
 {{< gdocs src="https://docs.google.com/viewer?srcid=1OcROdeQtPJjOXnz7Ugb2YgmKKAR64E3I&pid=explorer&efh=false&a=v&chrome=false&embedded=true" >}}
