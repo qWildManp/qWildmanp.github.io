@@ -2,7 +2,7 @@
 date = "2023-09-30"
 title = "Level Design: Saved by the Bell"
 draft = false
-image = "img/portfolio/Work5/title_img.png"
+image = "img/portfolio/LD-work1/title_img.png"
 showonlyimage = false
 weight = 1
 +++
@@ -15,7 +15,7 @@ weight = 1
 
 
 {{< figure
-  src="img/portfolio/Work5/title_img.png"
+  src="img/portfolio/LD-work1/title_img.png"
   type="full"
   width="70%"
   label="Level Overview"
@@ -57,19 +57,19 @@ I use [Level UP Level Design Toolkit](https://projects.etc.cmu.edu/level-up/ "Le
 Size of the space is cutial in level design.Before I start to draw somthing on paper. I first take a measurement of Unreal Unit Cube which can be helpful for me to manage level size. I simply opened a sample third person scene and tried randomly build a room to mesure the character size ,and I test the relative feeling of object size with different scales cubes. After the measurement, I go bakc to my grid paper and set 1 grid stands for 3 Unreal Unit length.
 {{< gallery >}}
 {{< figure
-  src="/img/portfolio/Work5/Metrics.png"
+  src="/img/portfolio/LD-work1/Metrics.png"
   width="40%"
   label="matrics"
   caption="Character size in Unreal" 
   >}}
 {{< figure
-  src="/img/portfolio/Work5/Metrics2.png"
+  src="/img/portfolio/LD-work1/Metrics2.png"
   width="40%"
   label="matrics"
   caption="Build room and objects using cubes with unit grid material" 
   >}}
   {{< figure
-  src="/img/portfolio/Work5/Metrics3.png"
+  src="/img/portfolio/LD-work1/Metrics3.png"
   width="40%"
   label="matrics"
   caption="Paper Design based on metrics" 
@@ -81,7 +81,7 @@ Size of the space is cutial in level design.Before I start to draw somthing on p
 I planed my brain-storming of the level by playing the "Dishonored" Level - Escape from prison phase many times . I tried to extract the fun aspects and level pacing during that period. I noticed that the most interesting part when I was playing the level was player can have more than one path to reach the goal.In the prison escape phase, it had three main moments (excape from the cell and avoid guards --> stole the bomb in a room --> Go the exit ,plant the bomb and break out the exit door) and it offers at least 2 times during the whole prison escape experience. 
 
 {{< figure
-  src="/img/portfolio/Work5/level_overview.jpg"
+  src="/img/portfolio/LD-work1/level_overview.jpg"
   type="full"
   width="50%"
   label="Level Overview"
@@ -103,12 +103,12 @@ Key Experience and Obstacles in sublevels
 
 {{< gallery >}}
 {{< figure
-  src="/img/portfolio/Work5/legend_1.jpg"
+  src="/img/portfolio/LD-work1/legend_1.jpg"
   caption="Level Map - Lengend" 
   label="Level Overview"
 >}}
 {{< figure
-  src="/img/portfolio/Work5/legend_2.jpg"
+  src="/img/portfolio/LD-work1/legend_2.jpg"
   label="Level Overview"
   caption="Level Map - Lengend" 
   >}}
@@ -118,7 +118,7 @@ List of legends to ensure the consistency of level objects
 
 {{< gallery 
   hover-effect="grow" 
-  dir="/img/portfolio/Work5/Paper Designs" />}}{{< load-photoswipe >}}
+  dir="/img/portfolio/LD-work1/Paper Designs" />}}{{< load-photoswipe >}}
 
 Detailed paper design of each level section(room)
 
@@ -130,17 +130,17 @@ Detailed paper design of each level section(room)
 Because the level is devided in 3 sections, I build the level by sections. Firstly, I only built walls and vertical space of each section based on papaer design, and playtest myself in the space.Then I will make some tweaks of space size if the space is too large or narrow. Then jumping platforms ,doors ,secret holes will be added in to test if they are accessable/jumpable.
 {{< gallery >}}
 {{< figure
-  src="/img/portfolio/Work5/Sublevel1_greybox.jpg"
+  src="/img/portfolio/LD-work1/Sublevel1_greybox.jpg"
   caption="Sublevel1 - greybox" 
   label="Level Overview"
 >}}
 {{< figure
-  src="/img/portfolio/Work5/Sublevel2_greybox.jpg"
+  src="/img/portfolio/LD-work1/Sublevel2_greybox.jpg"
   caption="Sublevel2 - greybox" 
   label="Level Overview"
 >}}
 {{< figure
-  src="/img/portfolio/Work5/Sublevel3_greybox.jpg"
+  src="/img/portfolio/LD-work1/Sublevel3_greybox.jpg"
   caption="Sublevel3 - greybox" 
   label="Level Overview"
 >}}
@@ -154,7 +154,7 @@ During the greyboxing process, I found the my original design of sublevel 2 is h
 **1. The two level paths are not clear enough**
   
  {{< figure
-  src="/img/portfolio/Work5/Issue_in_sublevel2.jpg"
+  src="/img/portfolio/LD-work1/Issue_in_sublevel2.jpg"
   width="60%"
   label="Level Issue"
   caption="Two ways to finish the level are so close" 
@@ -168,7 +168,7 @@ Another issue I noticed in my design in sublevel 2 is two paths hves similar pla
 
 Based on above issue, I redesigned the second section as following :
 {{< figure
-  src="/img/portfolio/Work5/Redesign_of_sublevel2.jpg"
+  src="/img/portfolio/LD-work1/Redesign_of_sublevel2.jpg"
   width="60%"
   label="Level Overview"
   caption="Redesign of sublevel 2 - redesign the level path" 
@@ -181,7 +181,7 @@ Based on above issue, I redesigned the second section as following :
  After the grey-boxing and finalize the design, I started to add more detailed in my scene, which are all interative objects and some main guidance to lead player. After that, I finished other building parts to enrich the environment narritive, and here comes to the first version of my level.
   
 {{< figure
-  src="/img/portfolio/Work5/level_v1.jpg"
+  src="/img/portfolio/LD-work1/level_v1.jpg"
   width="60%"
   label="Level Overview"
   caption="Blockmesh - version 1" 
@@ -189,7 +189,7 @@ Based on above issue, I redesigned the second section as following :
 >}}
 
  {{< gallery  hover-effect="grow" 
-  dir="/img/portfolio/Work5/Detailed GreyBox" />}}
+  dir="/img/portfolio/LD-work1/Detailed GreyBox" />}}
 
   After finishing the first version I got it playtested with someof my schoolmates and friends. They provides me some valuable insights that helps me to tweak my level better. Here are some examples during the playtest-iteration process :
 
@@ -206,7 +206,7 @@ Based on above issue, I redesigned the second section as following :
   2. Add another locked door at the exit of the other path to seperate two paths.
 
   {{< figure
-  src="/img/portfolio/Work5/Iterate_1.jpg"
+  src="/img/portfolio/LD-work1/Iterate_1.jpg"
   label="Level Interate"
   caption="" 
   >}}
@@ -223,7 +223,7 @@ Change:
  1. At outside of section 2, add more visualize guidance (leading lines, contrast) and remove some unnessary pipes.
 
 {{< figure
-  src="/img/portfolio/Work5/Iterate_2_1.jpg"
+  src="/img/portfolio/LD-work1/Iterate_2_1.jpg"
   label="Level Interate"
   caption="" 
   >}}
@@ -231,7 +231,7 @@ Change:
  2. Move the checkpoint area (the entrance) of the section outside of room so that player will be able to see the entrance of each path earlier
 
 {{< figure
-  src="/img/portfolio/Work5/Iterate_2_2.jpg"
+  src="/img/portfolio/LD-work1/Iterate_2_2.jpg"
   label="Level Interate"
   caption="" 
   >}}
@@ -239,7 +239,7 @@ Change:
  3. Inside of section 2, break some walls to create a converging point to attract players attention
 
 {{< figure
-  src="/img/portfolio/Work5/Iterate_2_3.jpg"
+  src="/img/portfolio/LD-work1/Iterate_2_3.jpg"
   label="Level Interate"
   caption="" 
   >}}
@@ -257,36 +257,36 @@ It's a bit chanllenge issue for me, but I still tried some efforts to help playe
 1. Make the exit of level be the landmark in the level and create some view points where player can find the landmark in different view. 
  
 {{< figure
-  src="/img/portfolio/Work5/Iterate_3_1.jpg"
+  src="/img/portfolio/LD-work1/Iterate_3_1.jpg"
   label="Level Interate"
   caption="" 
   >}}
 
 2. Create some peek points for players to notice another possible path to make structural connections between different paths. 
 {{< figure
-  src="/img/portfolio/Work5/Iterate_3_2.jpg"
+  src="/img/portfolio/LD-work1/Iterate_3_2.jpg"
   label="Level Interate"
   caption="" 
   >}}
 
 3. Using some building structures to reveal some hiden spaces to encourage player to explore the level.
 {{< figure
-  src="/img/portfolio/Work5/Iterate_3_3.jpg"
+  src="/img/portfolio/LD-work1/Iterate_3_3.jpg"
   label="Level Interate"
   caption="" 
   >}}
 
 4. Rveal some information about incoming challenge to movtive player.
 {{< figure
-  src="/img/portfolio/Work5/Iterate_3_4.jpg"
+  src="/img/portfolio/LD-work1/Iterate_3_4.jpg"
   label="Level Interate"
   caption="" 
   >}}
 
 ## Screen Shots
-{{< gallery-slider dir="/img/portfolio/Work5/ScreeShots/"  width="1000px" height="500px" auto-slide="2000" >}}
+{{< gallery-slider dir="/img/portfolio/LD-work1/ScreeShots/"  width="1000px" height="500px" auto-slide="2000" >}}
 
 ## Documentation
 {{< gdocs src="https://docs.google.com/viewer?srcid=1OcROdeQtPJjOXnz7Ugb2YgmKKAR64E3I&pid=explorer&efh=false&a=v&chrome=false&embedded=true" >}}
 
-[1]:/img/portfolio/Work5/title_img.png
+[1]:/img/portfolio/LD-work1/title_img.png

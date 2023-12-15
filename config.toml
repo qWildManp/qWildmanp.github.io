@@ -42,10 +42,14 @@ googleAnalytics = ""
   # Nav links in the side bar
 
   [[params.navlinks]]
-  name = "Game Design & Game Developement"
-  url = "design/"
+  name = "Game Developement"
+  url = "gamedev/"
+
+   [[params.navlinks]]
+  name = "Game Design"
+  url = "gamedesign/"
   home = true
- 
+
   [[params.navlinks]]
   name = "Technical"
   url = "technical/"

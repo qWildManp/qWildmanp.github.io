@@ -1,6 +1,6 @@
 +++
 date = "2022-12-10"
-title = "Unity + Voxon Volumatric Display: Magic Box"
+title = "Level Design : Coop Puzzle Game"
 draft = false
 image = "img/portfolio/Work4/MagicBox_logo.png"
 showonlyimage = false
