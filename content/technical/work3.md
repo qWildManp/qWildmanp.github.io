@@ -8,7 +8,7 @@ weight = 1
 math = true
 +++
 
-
+**Introduction**: C++ implmentation of inverse kenematic 
 <!--more-->
  {{< figure
   src="/img/portfolio/TechWork3/Jacobian.gif"

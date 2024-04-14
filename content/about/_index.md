@@ -4,7 +4,7 @@ title = "About me"
 +++
 
 #### Hi! I am Langxuan He, you can call me **Harry**.
-I’m an **Programmer** and  **Level Designer**. Currently, I'm at Carnegie Mellon University - Entertainment Technology Center to pursue further studies.Becuase of my CS background, I pursue to be both artistic and technical. I 'm interested in using some algorithms to help me design the game and also some techinical animation techniques.
+I’m an **GameDesigner** and  **Level Designer**. Currently, I'm at Carnegie Mellon University - Entertainment Technology Center to pursue further studies.Becuase of my CS background, I pursue to be both design and technical. I 'm interested in using some algorithms to help me design the game and also some techinical animation techniques.
 
 This website is my portfolio website, which shows some interesting work during my path in Game Deisgn/Level Design and also some of my work in technical art. Please feel free to take a look and welcome to my creative space !
 {{< figure
