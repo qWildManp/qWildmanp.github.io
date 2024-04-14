@@ -1,6 +1,6 @@
 +++
 date = "2023-09-30"
-title = "Level Design: Iron Fortress"
+title = "Level Design - RPG: Iron Fortress"
 draft = false
 image = "img/portfolio/LD-work2/title_img.png"
 showonlyimage = false

@@ -1,12 +1,12 @@
 +++
 date = "2023-09-30"
-title = "Level Design: Saved by the Bell"
+title = "Level Design - Steath Game: Saved by the Bell"
 draft = false
 image = "img/portfolio/LD-work1/title_img.png"
 showonlyimage = false
 weight = 1
 +++
-**Introduction**: It is a 3-week personal Level Design project inpired by the Level "Dishonorned" in Dishonored 1. Use Unreal 5 as Game Engine and Level UP toolkit as Level Editor 
+**Introduction**: It is a 3-week personal Level Design project to redesign the stealth Level "Dishonorned" in Dishonored 1. Use Unreal 5 as Game Engine and Level UP toolkit as Level Editor 
 
 
 
