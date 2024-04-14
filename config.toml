@@ -1,5 +1,5 @@
 baseurl = "https://qwildmanp.github.io"
-title = "Harry's Creative Space"
+title = "Langxuan(Harry) He"
 theme = ['hugo-shortcode-roneo-collection','creativeportfolio']
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Langxuan He's Portfolio Website"
   copyright = "&copy;2022 Langxuan He(Harry)"
   sidebarAbout = [
-    "Hi! I am Langxuan He! And you can call me Harry.I'm currently a CMUETC student. I have a background of ComputerScience.I 'm a Software engineer with skill in Technical Design/Level Design . I prefer using algorithm to help me solve some problem in Game Design"
+    "Hi! this is Langxuan He! And you can call me Harry.I'll be gradeted from CMUETC on May 2024 and I'm look for Game Designer/Level Designer Job.I have 3-year experience in Game Design and Level Design. I have background in ComputerScience, so I'm also good at scripting"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
