@@ -408,6 +408,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .content-column-content p,
 .content-column-content li {
+  font-size: 20px;
   color: #999999;
 }
 .content-column-content ul li {
