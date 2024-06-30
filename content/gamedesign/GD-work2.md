@@ -45,9 +45,15 @@ In this game , me and my another Designer : Yichen are thinking of using the ide
 #### Core Mechanic : Electricity
 
 **Conductive**
-* Circuit
-  
-* Conductivity Item
+* Circuit/Wires\
+    Wires are the commonly noticed and widly used conductive object in our game. Wires are "connecters" and not movable. When wires are connected and create a circuit , it can be used to get trigger and conductive item to be electrified.
+* Conductive Item\
+    Conductive item is a more complex conductive object. It can be push/pull by the player. When it get close to the wire, it will be electrified and become a "connecter".However, when the conductive item is electrified, it will not be movable. This is a item both act as a tool and an obstacle, so player need to make a proper decision on moving these items. In this game demo , we use metal can as example.\
+{{< figure
+  src="/img/portfolio/GD-Work2/ConductiveItem.gif"
+  type="full"
+  label="Game Mechanic"
+  caption="Conductive item : Wire and Metal can" >}}
 
 **PowerSource**
 * Battery
