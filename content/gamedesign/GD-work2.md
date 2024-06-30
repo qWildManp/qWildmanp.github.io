@@ -47,13 +47,20 @@ In this game , me and my another Designer : Yichen are thinking of using the ide
 #### Core Mechanic : Electricity
 
 **Conductive**
+* Power stand : Place to contain battery. The start point of the circuit. In order not to make player confuse about electricity direction , we add power stand as a start point of the circuit. Electricity will start from the power stand.
+ {{< figure
+  src="/img/portfolio/GD-Work2/Powerstand.png"
+  type="full"
+  width="40%"
+  label="Game Mechanic">}}
 * Circuit/Wires\
-    Wires are the commonly noticed and widly used conductive object in our game. Wires are "connecters" and not movable. When wires are connected and create a circuit , it can be used to get trigger and conductive item to be electrified.
+    Wires are the commonly noticed and widly used conductive object in our game. Wires are "connecters" and not movable. When wires are connected and create a circuit , it can be used to get trigger and conductive item to be electrified. Wires are directional(180 degree and 90 degree), electriciy will only be conveyed along the circuit path.
 * Conductive Item\
-    Conductive item is a more complex conductive object. It can be push/pull by the player. When it get close to the wire, it will be electrified and become a "connecter".However, when the conductive item is electrified, it will not be movable. This is a item both act as a tool and an obstacle, so player need to make a proper decision on moving these items. In this game demo , we use metal can as example.\
+    Conductive item is a more complex conductive object. It can be push/pull by the player. When it get close to the wire, it will be electrified and become a "connecter". Different from the wire, conductive objects do not have directional property, it will electrify every conductives nearby . And, when the conductive item is electrified, it will not be movable. This is a item both act as a tool and an obstacle, so player need to make a proper decision on moving these items. In this game demo , we use metal can as example.\
 {{< figure
   src="/img/portfolio/GD-Work2/ConductiveItem.gif"
   type="full"
+   width="40%"
   label="Game Mechanic"
   caption="Conductive item : Wire and Metal can" >}}
 
@@ -64,16 +71,10 @@ In this game , me and my another Designer : Yichen are thinking of using the ide
   {{< figure
   src="/img/portfolio/GD-Work2/Battery.gif"
   type="full"
+   width="40%"
   label="Game Mechanic"
   caption="Power Source : Battery" >}}
-
 **Trigger**
-* Power stand : Place to contain battery
- {{< figure
-  src="/img/portfolio/GD-Work2/Powerstand.png"
-  type="full"
-  width="40%"
-  label="Game Mechanic">}}
 * Button : Switch to activate/deactivate machines/doors
   {{< figure
   src="/img/portfolio/GD-Work2/Trigger.png"
@@ -94,8 +95,13 @@ In this game , me and my another Designer : Yichen are thinking of using the ide
   label="Game Mechanic">}}
 
 
-#### Core Mechanic : Electricity
-  
+#### Relationships between items
+The graph below shows how our features that relates to **Electricity** work with each other
+   {{< figure
+  src="/img/portfolio/GD-Work2/ElectricityRelationships.png"
+  type="full"
+  width="70%"
+  label="Game Mechanic">}}
 ## Level Design
 
 
