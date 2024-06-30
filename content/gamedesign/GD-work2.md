@@ -33,18 +33,20 @@ A- Left\
 S - Backward\
 D - Right\
 Space(Hold) - Push/Pull
-
+## Video Walkthrough
+{{< youtube iZaZp5wbpbY>}}
 ## Playable Demo
 ### [Cubic Factory v1.0  {{< ico "bxs-file-archive" "boxicons">}}](https://drive.google.com/file/d/15R7o-XaQ1GTrDYSuLYxwxKQXlBw8MMLt/view?usp=sharing "Game Demo")
 
 ## Game Design
 
-In this game , me and my another Designer : Yichen are thinking of using the idea of Emergent Design Patternt in our puzzle game experience. We thought the Emergent Design patern can make the game have depth with simple interactions. The player will be more likely have a experience of : using tools to solve the problem, not providing an question and wait for the player to fill the blank.
+In this game , me and my another Designer : Yichen are thinking of using the idea of Emergent Design Patternt in our puzzle game experience. We thought the Emergent Design patern can make the game have depth in gameplay with simple interactions. The player will be more likely have a experience of : using tools to solve the problem, not providing an question and wait for the player to fill the blank. Due to the time limit, we focus on one core mechanic : Electricity
 
 #### Core Mechanic : Electricity
 
 **Conductive**
-* Surcuit
+* Circuit
+  
 * Conductivity Item
 
 **PowerSource**
