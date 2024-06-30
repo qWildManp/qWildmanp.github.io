@@ -23,6 +23,8 @@ Langxuan(Harry) He , Tingyu(Polly) Yan , Jiachen(Jason) Qiu , Yichen Lu , YuMeng
 
 I'm the Level Designer/Co-Game Designer and Programmer in the team.
 
+#### Finish Date: May 2024
+#### Project Length : 2 month
 
 ## Game Overview
 **Core Mechanics :**\
@@ -40,7 +42,7 @@ Space(Hold) - Push/Pull
 
 ## Game Design
 
-In this game , me and my another Designer : Yichen are thinking of using the idea of Emergent Design Patternt in our puzzle game experience. We thought the Emergent Design patern can make the game have depth in gameplay with simple interactions. The player will be more likely have a experience of : using tools to solve the problem, not providing an question and wait for the player to fill the blank. Due to the time limit, we focus on one core mechanic : Electricity
+In this game , me and my another Designer : Yichen are thinking of using the idea of **Emergent Design Patternt** in our puzzle game experience. We thought the Emergent Design patern can make the game have depth in gameplay with simple interactions. The player will be more likely have a experience of : using tools to solve the problem, not providing an question and wait for the player to fill the blank. Due to the time limit, we focus on one core mechanic : **Electricity**
 
 #### Core Mechanic : Electricity
 
@@ -57,10 +59,42 @@ In this game , me and my another Designer : Yichen are thinking of using the ide
 
 **PowerSource**
 * Battery
+  Battery are the source to provide electricity. When it is on the power stand, it will start to electrify connected wires
+
+  {{< figure
+  src="/img/portfolio/GD-Work2/Battery.gif"
+  type="full"
+  label="Game Mechanic"
+  caption="Power Source : Battery" >}}
 
 **Trigger**
-* Conveyor Belt
-* Door
+* Power stand : Place to contain battery
+ {{< figure
+  src="/img/portfolio/GD-Work2/Powerstand.png"
+  type="full"
+  width="40%"
+  label="Game Mechanic">}}
+* Button : Switch to activate/deactivate machines/doors
+  {{< figure
+  src="/img/portfolio/GD-Work2/Trigger.png"
+  type="full"
+  width="40%"
+  label="Game Mechanic">}}
+* Conveyor Belt : Conveyiny cubes in the game
+  {{< figure
+  src="/img/portfolio/GD-Work2/Conveyor.gif"
+  type="full"
+  width="40%"
+  label="Game Mechanic">}}
+* Door : Door that needs electricity
+  {{< figure
+  src="/img/portfolio/GD-Work2/Door.png"
+  type="full"
+  width="40%"
+  label="Game Mechanic">}}
+
+
+#### Core Mechanic : Electricity
   
 ## Level Design
 

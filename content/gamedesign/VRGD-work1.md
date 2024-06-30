@@ -4,7 +4,7 @@ title = "Level Design - Unity VR: Singularity"
 draft = false
 image = "img/portfolio/Work3/Singularity_logo.png"
 showonlyimage = false
-weight = 2
+weight = 3
 +++
 
 **Introduction**: A  narrative journey through a wormhole. Complete the last couple of tasks required to complete your spaceship and take off in this short experience about coping with loss.

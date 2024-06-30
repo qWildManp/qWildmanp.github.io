@@ -4,7 +4,7 @@ title = "Level Design - RPG: Iron Fortress"
 draft = false
 image = "img/portfolio/LD-work2/title_img.png"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 **Introduction**: It is a 4-week personal Level Design project inpired by "DarkSouls" and "Elden Ring". Use Unreal 5 as Game Engine and Level UP toolkit as Level Editor 
 
