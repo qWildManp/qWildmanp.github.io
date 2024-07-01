@@ -47,11 +47,13 @@ In this game , me and my another Designer : Yichen are thinking of using the ide
 #### Core Mechanic : Electricity
 
 **Conductive**
-* Power stand : Place to contain battery. The start point of the circuit. In order not to make player confuse about electricity direction , we add power stand as a start point of the circuit. Electricity will start from the power stand.
+
+* Power stand\
+  The place to contain battery. The start point of the circuit. In order not to make player confuse about electricity direction , we add power stand as a start point of the circuit. Electricity will start from the power stand.
  {{< figure
   src="/img/portfolio/GD-Work2/Powerstand.png"
   type="full"
-  width="40%"
+  width="50%"
   label="Game Mechanic">}}
 * Circuit/Wires\
     Wires are the commonly noticed and widly used conductive object in our game. Wires are "connecters" and not movable. When wires are connected and create a circuit , it can be used to get trigger and conductive item to be electrified. Wires are directional(180 degree and 90 degree), electriciy will only be conveyed along the circuit path.
@@ -60,48 +62,74 @@ In this game , me and my another Designer : Yichen are thinking of using the ide
 {{< figure
   src="/img/portfolio/GD-Work2/ConductiveItem.gif"
   type="full"
-   width="40%"
+   width="50%"
   label="Game Mechanic"
   caption="Conductive item : Wire and Metal can" >}}
 
 **PowerSource**
-* Battery
+* Battery\
   Battery are the source to provide electricity. When it is on the power stand, it will start to electrify connected wires
-
   {{< figure
   src="/img/portfolio/GD-Work2/Battery.gif"
   type="full"
-   width="40%"
+   width="50%"
   label="Game Mechanic"
   caption="Power Source : Battery" >}}
+
 **Trigger**
+
 * Button : Switch to activate/deactivate machines/doors
   {{< figure
   src="/img/portfolio/GD-Work2/Trigger.png"
   type="full"
-  width="40%"
+  width="50%"
   label="Game Mechanic">}}
 * Conveyor Belt : Conveyiny cubes in the game
   {{< figure
   src="/img/portfolio/GD-Work2/Conveyor.gif"
   type="full"
-  width="40%"
+  width="50%"
   label="Game Mechanic">}}
 * Door : Door that needs electricity
   {{< figure
   src="/img/portfolio/GD-Work2/Door.png"
   type="full"
-  width="40%"
+  width="50%"
   label="Game Mechanic">}}
 
 
-#### Relationships between items
+#### Relationships between items : Electricity
 The graph below shows how our features that relates to **Electricity** work with each other
    {{< figure
   src="/img/portfolio/GD-Work2/ElectricityRelationships.png"
   type="full"
   width="70%"
   label="Game Mechanic">}}
+
+#### Other Game Features
+
+**Game Camera Design**
+
+The game Camera is in topdown view with the angle of 50 degree downwards from above and in fix distance. This camera angle can maximize the sptatial characteristics of 3D games and also give enough information for player to obtain.\
+For some occlusion problems that still occur, we design a fixed camera rotation feature.Players can press **“Q”** to rotate clock-wise and **“E”** to rotate counter-clock-wise in 90 degrees. This allows players to better observe areas on the map that are obscured by objects.
+{{< figure
+  src="/img/portfolio/GD-Work2/CameraDesign.gif"
+  type="full"
+  width="70%"
+  label="Game Mechanic">}}
+
+**Asset Design**
+
+To let player easy to measure the grid space in the level, we do some design in art asset.
+1. We make a floor unit as same size as a grid unit and outline edges of a floor unit. Help player to have knowlege of our grid-based interactions and the size of each grid in our game
+{{< figure
+  src="/img/portfolio/GD-Work2/FloorSize.jpg"
+  type="full"
+  width="50%"
+  label="Game Mechanic">}}
+2. Make all interactable items tobe cube-like and no more than a size of a unit grid cube. Place all items at the center of the grid. 
+
+
 ## Level Design
 
 
