@@ -1,5 +1,5 @@
 +++
-date = "2024-2-30"
+date = "2024-5-30"
 title = "Game Design - Puzzle Game: Cubic Factory"
 draft = false
 image = "img/portfolio/GD-Work2/GD-work2TitleImg.png"
@@ -15,8 +15,7 @@ Core mechanic are boxing pushing and item interaction in the game . Player will 
   type="full"
   width="70%"
   label="Level Overview"
-  caption="" 
->}}
+  caption="">}}
 
 Team members : 
 Langxuan(Harry) He , Tingyu(Polly) Yan , Jiachen(Jason) Qiu , Yichen Lu , YuMeng(Meng) Wei
@@ -127,10 +126,48 @@ To let player easy to measure the grid space in the level, we do some design in 
   type="full"
   width="50%"
   label="Game Mechanic">}}
-2. Make all interactable items tobe cube-like and no more than a size of a unit grid cube. Place all items at the center of the grid. 
+2. Make all interactable items tobe cube-like and no more than a size of a unit grid cube. Place all items at the center of the grid. We think let center be the grid pivot is the easiest way for player to measure the each push/pull step. Making all interactable item to be cube-like with an unit-grid size may make the game assets more align with game fearues and also it will be easy for player to measure the push ability that the character has(game character only can push one cube-size item)
 
 
 ## Level Design
+We have three levels in our game demo. Because we have so many interactions and features in our game, how to introduce them to player and make player be able to understand is really a important thing to consider. Below is how do we manage three levels.
+{{< figure
+  src="/img/portfolio/GD-Work2/TutuorialLevel.png"
+  type="full"
+  width="70%"
+  label="Level Design">}}
+
+{{< figure
+  src="/img/portfolio/GD-Work2/TutorialLevel-Final.png"
+  type="full"
+  width="70%"
+  label="Level Design">}}
+
+{{< figure
+  src="/img/portfolio/GD-Work2/Level1.png"
+  type="full"
+  width="70%"
+  label="Level Design">}}
+
+{{< figure
+  src="/img/portfolio/GD-Work2/Level1-Final.png"
+  type="full"
+  width="70%"
+  label="Level Design">}}
+
+{{< figure
+  src="/img/portfolio/GD-Work2/Level2.png"
+  type="full"
+  width="70%"
+  label="Level Design">}}
+
+{{< figure
+  src="/img/portfolio/GD-Work2/Level2-Final.png"
+  type="full"
+  width="70%"
+  label="Level Design">}}
+
+
 
 
 
