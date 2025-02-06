@@ -1,5 +1,5 @@
 +++
-date = "2023-2-15"
+date = "2023-02-15"
 title = "Traditional Animation : Inverse Kenematic"
 draft = false
 image = "img/portfolio/TechWork3/Title.png"
