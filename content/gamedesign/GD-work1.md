@@ -4,7 +4,7 @@ title = "Game Design - Horror Game: Deadly Game"
 draft = false
 image = "img/portfolio/Work1/Work1_title.png"
 showonlyimage = false
-weight = 3
+weight = 4
 +++
 
 **Introduction**: PC, First person single player, rouglike horror game, it is a 2-month personal project. 
