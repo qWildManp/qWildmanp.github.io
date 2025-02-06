@@ -1,5 +1,5 @@
 +++
-date = "2024-5-30"
+date = "2024-05-30"
 title = "Game Design - Puzzle Game: Cubic Factory"
 draft = false
 image = "img/portfolio/GD-Work2/GD-work2TitleImg.png"

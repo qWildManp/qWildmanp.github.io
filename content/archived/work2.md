@@ -1,5 +1,5 @@
 +++
-date = "2023-3-13"
+date = "2023-03-13"
 title = "Digitalize Visual Effect"
 draft = false
 image = "img/portfolio/TechWork2/Work2_title.png"
