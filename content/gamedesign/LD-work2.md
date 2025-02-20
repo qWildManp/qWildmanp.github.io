@@ -306,6 +306,7 @@ Blueprint:
 {{< gallery-slider dir="/img/portfolio/LD-work2/ScreeShots/"  width="1000px" height="500px" auto-slide="2000" >}}
 
 ## Documentation
+
 {{< gdocs src="https://docs.google.com/viewer?srcid=1YtA_ZZapUZY-D7VPwa-iMjl6_X12u7XP&pid=explorer&efh=false&a=v&chrome=false&embedded=true" >}}
 
 [1]:/img/portfolio/LD-work2/title_img.png
