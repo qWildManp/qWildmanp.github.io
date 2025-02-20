@@ -1,6 +1,6 @@
 +++
 date = "2023-09-30"
-title = "Level Design - Steath Game: Saved by the Bell"
+title = "Level Design - Platformer Level : Saved by the Bell"
 draft = false
 image = "img/portfolio/LD-work1/title_img.png"
 showonlyimage = false
@@ -28,10 +28,12 @@ weight = 2
 
 ## Video Walkthrough
 {{< youtube XF5XtHUYSlU>}}
+backup link ： https://pan.baidu.com/s/1ZexGNDlcxZiu6sbDod4EvA?pwd=amje
 
 ## Playable Demo
 
 ### [Level Demo v1.3  {{< ico "bxs-file-archive" "boxicons">}}](https://drive.google.com/file/d/11jugzxy9sQlOLNlqdizve3TD8uA7szrY/view?usp=drive_link "Level Demo")
+backup link : https://pan.baidu.com/s/1E-nGAcoEIY6uzTX67Qy8nw?pwd=dg3s
 
 ## Level Narrative Intro
 Similar to Dishonred 1 ,player was a prisoner who was locked in royal secret prison in a desolute island .One day a mysterious force suddenly attacked the prison . You got a chance to escape from the prosion.
@@ -287,6 +289,9 @@ It's a bit chanllenge issue for me, but I still tried some efforts to help playe
 {{< gallery-slider dir="/img/portfolio/LD-work1/ScreeShots/"  width="1000px" height="500px" auto-slide="2000" >}}
 
 ## Documentation
+
+backup link : https://pan.baidu.com/s/1QIQ_gQ6-pGv1nj60b3FpQw?pwd=frgb
+
 {{< gdocs src="https://docs.google.com/viewer?srcid=1OcROdeQtPJjOXnz7Ugb2YgmKKAR64E3I&pid=explorer&efh=false&a=v&chrome=false&embedded=true" >}}
 
 [1]:/img/portfolio/LD-work1/title_img.png

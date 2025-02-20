@@ -26,10 +26,12 @@ weight = 2
 
 ## Video Walkthrough
 {{< youtube GiXK0TSc2Fs>}}
+backup link : https://pan.baidu.com/s/1FMCZmzFih-2xLm4wdCsIZA?pwd=6xjb
 
 ## Playable Demo
 
 ### [Level Demo v0.3  {{< ico "bxs-file-archive" "boxicons">}}](https://drive.google.com/file/d/12KUJVFCiiD3ES6Hb79ozxXPnVnWbnNfO/view?usp=drive_link "Level Demo")
+backup link : https://pan.baidu.com/s/1yOS_IReKXLddFpTz-nE99w?pwd=9z26
 
 ## Level Narrative Intro
 The player wakes up at an altar on an nameless mountain with a message in mind : Go to the Iron Fortress, and kill the Iron Lord and regain the power you have. Then the player start the journey towards Iron Fortress.
@@ -306,6 +308,8 @@ Blueprint:
 {{< gallery-slider dir="/img/portfolio/LD-work2/ScreeShots/"  width="1000px" height="500px" auto-slide="2000" >}}
 
 ## Documentation
+
+backup link: https://pan.baidu.com/s/1t4VyxImOfmnk_ReD2gIBBA?pwd=4gcm
 
 {{< gdocs src="https://docs.google.com/viewer?srcid=1YtA_ZZapUZY-D7VPwa-iMjl6_X12u7XP&pid=explorer&efh=false&a=v&chrome=false&embedded=true" >}}
 
