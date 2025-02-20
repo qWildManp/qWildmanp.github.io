@@ -6,7 +6,7 @@ image = "img/portfolio/LD-work1/title_img.png"
 showonlyimage = false
 weight = 2
 +++
-**Introduction**: It is a 3-week personal Level Design project to redesign the stealth Level "Dishonorned" in Dishonored 1. Use Unreal 5 as Game Engine and Level UP toolkit as Level Editor 
+**Introduction**: It is a 3-week personal Level Design project to design a 3D platformer level. Use Unreal 5 as Game Engine and Level UP toolkit as Level Editor 
 
 
 
