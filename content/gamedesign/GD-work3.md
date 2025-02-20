@@ -14,7 +14,10 @@ weight = 2
 #### Finish Date: May 2024
 #### Project Length : 3 month
 #### Project Link : 
+project website :
+https://projects.etc.cmu.edu/studio-platypus/
 
+project github page :
 https://github.com/Studio-Platypus/GamePreproduction-Dungeon-Museum/tree/main
 
 ## Video Runthrough
