@@ -36,8 +36,10 @@ D - Right\
 Space(Hold) - Push/Pull
 ## Video Walkthrough
 {{< youtube iZaZp5wbpbY>}}
+backup link : https://pan.baidu.com/s/1tzH-BDq8blUbw-edfWL-1g?pwd=vyps
 ## Playable Demo
 ### [Cubic Factory v1.0  {{< ico "bxs-file-archive" "boxicons">}}](https://drive.google.com/file/d/15R7o-XaQ1GTrDYSuLYxwxKQXlBw8MMLt/view?usp=sharing "Game Demo")
+backup link : https://pan.baidu.com/s/1r_kvYO7YGHoHjSVkX3ngHQ?pwd=s3j1
 
 ## Game Design
 
@@ -168,7 +170,9 @@ We have three levels in our game demo. Because we have so many interactions and 
   label="Level Design">}}
 
 
-
+## Documentation
+backup link : https://pan.baidu.com/s/1J-3m-LJTLej7ruuScvC97Q?pwd=zynf
+{{< gdocs src="https://docs.google.com/viewer?srcid=1R0iyHFp2ZrnN-6Iu8qvjuK1m6OyfdF93&pid=explorer&efh=false&a=v&chrome=false&embedded=true" >}}
 
 
 

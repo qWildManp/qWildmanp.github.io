@@ -309,7 +309,7 @@ Blueprint:
 
 ## Documentation
 
-backup link: https://pan.baidu.com/s/1t4VyxImOfmnk_ReD2gIBBA?pwd=4gcm
+backup link: https://pan.baidu.com/s/1wmgqA3G68GcS-lu818bbZQ?pwd=54j9
 
 {{< gdocs src="https://docs.google.com/viewer?srcid=1YtA_ZZapUZY-D7VPwa-iMjl6_X12u7XP&pid=explorer&efh=false&a=v&chrome=false&embedded=true" >}}
 
