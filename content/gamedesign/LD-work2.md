@@ -311,6 +311,6 @@ Blueprint:
 
 backup link: https://pan.baidu.com/s/1wmgqA3G68GcS-lu818bbZQ?pwd=54j9
 
-{{< gdocs src="https://docs.google.com/viewer?srcid=1YtA_ZZapUZY-D7VPwa-iMjl6_X12u7XP&pid=explorer&efh=false&a=v&chrome=false&embedded=true" >}}
+{{< gdocs src="https://docs.google.com/viewer?srcid=1b5x_ZrYZre8el48GfcVqfnCOch-S3tTN&pid=explorer&efh=false&a=v&chrome=false&embedded=true" >}}
 
 [1]:/img/portfolio/LD-work2/title_img.png
