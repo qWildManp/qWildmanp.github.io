@@ -26,13 +26,13 @@ It is a CO-OP puzzle game. Two players need to stay together and find a way to o
 
 #### Level3 - Dungeon Level
 {{< figure
-  src="/img/portfolio/Work4/level4_layout.png"
+  src="/img/portfolio/LD-work3/level4_layout.png"
   type="full"
   label="Dungeon Level"
   caption="Event Dungeon Level - Layout" 
   >}}
 {{< figure
-  src="/img/portfolio/Work4/level4_gameScene.png"
+  src="/img/portfolio/LD-work3/level4_gameScene.png"
   type="full"
   label="Dungeon Level"
   caption="Event Dungeon Level - gameScene" 
